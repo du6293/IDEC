@@ -17,7 +17,8 @@ waveform in Modelsim
 
 <FPGA PWM>
  I controled LED, Seven segment, Button using intel FPGA, Altera DE1-Soc board
-![image](https://user-images.githubusercontent.com/76850241/236698178-a5ad4f1f-9b3b-4aa2-a1c4-c10850fb5f70.png)
+
+ ![image](https://user-images.githubusercontent.com/76850241/236698178-a5ad4f1f-9b3b-4aa2-a1c4-c10850fb5f70.png)
 
  
  alloacted pins
