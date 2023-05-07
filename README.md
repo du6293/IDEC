@@ -1,6 +1,7 @@
 # multiplier8x8
 Verilog design training using Intel FPGA organized by IDEC. (2022.10.25-2022.10.28)
-
+I posted detailed description in my personal blog.
+https://thunduck.tistory.com/117?category=1315272
 
 ![image](https://user-images.githubusercontent.com/76850241/236697549-d75c57d7-7c58-4f5c-b923-3e5c54988368.png)
 wire all module
