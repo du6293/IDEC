@@ -17,6 +17,7 @@ waveform in Modelsim
 
 
 
+
 <FPGA PWM>
  I controled LED, Seven segment, Button using intel FPGA, Altera DE1-Soc board
 
