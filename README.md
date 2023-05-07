@@ -8,7 +8,7 @@ wire all module
 
 waveform in Modelsim
 
-![image](https://user-images.githubusercontent.com/76850241/236698270-32199562-ab33-40d1-b6f4-88f7b9dc38e0.png)
+![image](https://user-images.githubusercontent.com/76850241/236698381-cb5299ee-0865-4c4b-b200-603305021467.png)
 
 FPGA PWM
  I controled LED, Seven segment, Button using intel FPGA, Altera DE1-Soc board
