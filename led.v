@@ -1,7 +1,7 @@
 module led(
-	input					clk		  , // CLOCK_50 	: AF14
-	input					nRst		, // KEY_0 		  : AA14
-	output				led		    //LED9 		    : Y21
+	input				clk	, // CLOCK_50 	: AF14
+	input				nRst	, // KEY_0 	: AA14
+	output				led	  //LED9 	: Y21
 );
 
 	reg			[25:0]			cnt;
